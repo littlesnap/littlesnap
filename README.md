@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <p align="center">
-  <a href="https://www.yushi.dev/" target="_blank" rel="noreferrer"><img src="https://i.imgur.com/vuvHOyC.png" alt="my banner" width=”200" height=”200"></a>
+  <img src="https://i.imgur.com/vuvHOyC.png" alt="my banner" width=”200">
 </p>
 
 

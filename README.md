@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <p align="center">
-  <img src="https://i.imgur.com/vuvHOyC.png" alt="my banner" width=”200">
+  <img src="https://i.imgur.com/aJDfIkq.png" alt="my banner">
 </p>
 
 

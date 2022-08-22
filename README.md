@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<img width=”200" height=”200" src=”https://imgur.com/a/p4vJBCB" alt=”my banner”>
+
 <!--
 **littlesnap/littlesnap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

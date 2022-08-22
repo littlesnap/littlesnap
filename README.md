@@ -1,6 +1,9 @@
 ### Hi there 👋
 
-<img width=”200" height=”200" src=”https://imgur.com/a/p4vJBCB" alt=”my banner”>
+<p align="center">
+  <a href="https://www.yushi.dev/" target="_blank" rel="noreferrer"><img src="https://i.imgur.com/vuvHOyC.png" alt="my banner"></a>
+</p>
+
 
 <!--
 **littlesnap/littlesnap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
